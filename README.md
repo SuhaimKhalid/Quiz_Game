@@ -45,15 +45,15 @@ Javascript is the main Language in which all of the code is written for this pro
 
 ## Deployed page
 
-Page published at: https://suhaimkhalid.github.io/Quiz_Game/
+Page published at: https://suhaimkhalid.github.io/Quiz_Game/git
 
 ## Screenshot
 
 ### Main Screen View
-![Html View](/assets/Images/Main%20Screen.png)
+![Html View](/Assets/Images/Main%20Screen.png)
 ### Question Screen
-![LowerCase Confirm](/assets/Images/Question%20Screen.png)
+![LowerCase Confirm](/Assets/Images/Question%20Screen.png)
 ### End Screen
-![UpperCase Confirm](/assets/Images/Submit%20Name.png)
+![UpperCase Confirm](/Assets/Images/Submit%20Name.png)
 ### High Score Screen
-![Numeric Character Confirm](/assets/Images/HighScore%20Mobile.png)
+![Numeric Character Confirm](/Assets/Images/HighScore%20Mobile.png)
