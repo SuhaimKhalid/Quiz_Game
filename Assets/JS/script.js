@@ -33,7 +33,8 @@ var start_quiz = document.getElementById("start_quiz");
 
    // Function to start the game
    start_quiz.addEventListener("click",(()=>{
-
+      qn=0;
+      score=0;
       quiz_Intro.className="hide";
       questions_area.className="";
       timerChecker=false;
@@ -137,6 +138,7 @@ var start_quiz = document.getElementById("start_quiz");
 var endscreenFunction = ()=>{
    final_score.textContent=score;
    qn=0;
+   
 };
 
 var username_list=[];
